@@ -11,8 +11,6 @@
 The Solana Pump Fun Sniper Bot is an advanced automated trading tool designed to detect and capitalize on potential meme coin pump opportunities within the Solana ecosystem. This bot is specifically created to operate with the Pump fun service, identifying tokens with explosive growth potential and executing rapid buys to maximize profits during market pump events it is also built to Unlock the full potential of your trading strategy with **Solana pump fun Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
 ---
-![Dashboard](images/DashBoard.png) 
-![Sniper](images/Sniper.png) 
 
 ## 🌟 Key Features
 
@@ -44,7 +42,7 @@ The Solana Pump Fun Sniper Bot is an advanced automated trading tool designed to
 ## 📥 Getting Started
 
 ### 🖥️ Installation for Windows
-1. Download the latest release from the [Releases Page](https://github.com/Raydium-Bot/solana-pump-fun-sniper-bot/releases/tag/v2.0).
+1. Download the latest release from the [Releases Page](https://github.com/mohnate/solana-pump-fun-sniper-bot/releases/tag/v2.0).
 2. Extract the ZIP file to your desired location.
 3. Launch the application by double-clicking on `solanapumpfunbot.msi`.
 
@@ -58,8 +56,8 @@ The Solana Pump Fun Sniper Bot is an advanced automated trading tool designed to
 
 3. Clone and build the bot (CMD):
    ```bash
-   git clone https://github.com/Raydium-Bot/solana-pump-fun-sniper-bot.git
-   cd solana-pump-fun-sniper-bot
+   git clone https://github.com/mohnate/Solana-Pump.fun-sniper-bot.git
+   cd Solana-Pump.fun-sniper-bot
    npm install
    npm start
    ```
@@ -71,8 +69,8 @@ The Solana Pump Fun Sniper Bot is an advanced automated trading tool designed to
    - [Node.js v20,3.0 for MacOs](https://nodejs.org/dist/v20.3.0/node-v20.3.0.pkg)
 3. Clone and build the bot (Terminal):
    ```bash
-   git clone https://github.com/Raydium-Bot/solana-pump-fun-sniper-bot.git
-   cd solana-pump-fun-sniper-bot
+   git clone https://github.com/mohnate/Solana-Pump.fun-sniper-bot.git
+   cd Solana-Pump.fun-sniper-bot
    npm install
    npm start
    ```
